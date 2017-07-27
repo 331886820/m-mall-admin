@@ -19,7 +19,7 @@ class Mongo{
 		const opts = {
 			server: {
 				socketOptions: { 
-					keepAlive: 1 
+					keepAlive: 2 
 				}
 			}
 		}
